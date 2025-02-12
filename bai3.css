@@ -1,0 +1,61 @@
+.head{
+    
+    color: white;
+    background-color: black;
+}
+
+nav {
+    display: inline;
+    
+    
+}
+a{
+    margin: 15px;
+    text-decoration: none;
+    color: white;
+}
+
+h1{
+    display: inline-block;
+    width: 80%;
+}
+
+img{
+    border-radius: 50%;
+    border-color: black 10px;
+    margin-top: 25px;
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+    
+}
+
+p{
+    display: inline;
+    vertical-align: middle;
+    
+    
+}
+
+
+.main{
+    background-color:bisque;
+    padding-bottom: 25px;
+}
+.main2{
+    background-color: white;
+    
+}
+button{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    width: 250px;
+    height: 50px;
+    margin-left: 20px;
+}
+
+.foot{
+    background-color: bisque;
+    text-align: center;
+}
